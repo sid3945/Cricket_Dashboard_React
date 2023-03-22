@@ -1,0 +1,1 @@
+export {default as Batsman } from "./Batsman.svg";
